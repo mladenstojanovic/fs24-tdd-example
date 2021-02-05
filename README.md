@@ -1,8 +1,7 @@
 ### `npx msw init ./public`
+Runs mock service 
 
 Open [https://mswjs.io/docs/cli/init](https://mswjs.io/docs/cli/init) for more information!
-
-Runs mock service 
 ### `npm start`
 
 Runs the app in the development mode.\
